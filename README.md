@@ -5,8 +5,8 @@
 ## Template Previews
 
 ### Recipe Card Templates
-![Recipe Cards](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/recepies.png)
-![More Recipes](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/recepies-2.png)
+<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/recepies.png" width="478">
+<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/recepies-2.png" width="483">
 
 ### Dark-Themed Templates
 ![Dark Docs](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/dark-docs.png)
@@ -15,7 +15,7 @@
 ![Light Docs](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/light-docs.png)
 
 ### Numbered List Styles
-![List Styles](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/list-styles.png)
+<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/list-styles.png" width="413">
 
 ### Custom Bullet Styles
 ![List Styles 2](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/list-styles-2.png)
