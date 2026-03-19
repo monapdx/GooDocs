@@ -20,10 +20,6 @@ Whether you want to design a recipe card, a professional newsletter, or a bold e
 
 ## Template Previews
 
-### Recipe Card Templates
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/recepies.png" width="478">
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/recepies-2.png" width="483">
-
 ### Dark-Themed Templates
 ![Dark Docs](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/dark-docs.png)
 
