@@ -80,7 +80,7 @@ git push
 
 ### 6. Open a Pull Request
 
-Use the provided PR template and complete the checklist.
+Use the provided [PR template](.github/pull_request_template.md) and complete the checklist.
 
 ---
 
