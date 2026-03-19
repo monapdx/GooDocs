@@ -26,42 +26,6 @@ Whether you want to design a recipe card, a professional newsletter, or a bold e
 ### Light-Themed Templates
 ![Light Docs](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/light-docs.png)
 
-### Numbered List Styles
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/list-styles.png" width="413">
-
-### Custom Bullet Styles
-![List Styles 2](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/list-styles-2.png)
-
-### Checkbox Styles
-
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/checkboxes.png" width="450">
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/more-checkboxes.png" width="457">
-
-### Dropdowns
-
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/dropdowns.png" width="477">
-
-### Blockquotes
-
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/blockquotes.png" width="451">
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/blockquote-style.png" width="498">
-
-### Printable Quizzes
-
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/printable-quiz.png" width="475">
-
-### Hero Section
-
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/hero.png" width="497">
-
-### Calendar Table
-
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/table-calendar.png" width="455">
-
-### Heading Styles
-
-<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/heading-styles.png" width="405">
-
 ---
 
 ## ✨ Features
