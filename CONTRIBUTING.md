@@ -17,6 +17,8 @@ Click "Fork" and clone your copy locally.
 - Make sure it is **set to "Anyone with the link can view"**
 - Create a **copy link**
 
+<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/demo/share-anyone-with-link.gif">
+
 Replace:
 ```
 /edit
