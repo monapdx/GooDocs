@@ -1,0 +1,13 @@
+{
+  "id": "your-template-id",
+  "title": "Template Title",
+  "category": "category-name",
+  "theme": "light | dark | colorful | minimal",
+  "description": "Short description of what this template is for.",
+  "preview_image": "img/templates/your-image.png",
+  "doc_view_url": "https://docs.google.com/document/d/FILE_ID/edit?usp=sharing",
+  "doc_copy_url": "https://docs.google.com/document/d/FILE_ID/copy",
+  "author_name": "Your Name",
+  "license_or_permission": "I confirm I have permission to share this template",
+  "date_added": "YYYY-MM-DD"
+}
