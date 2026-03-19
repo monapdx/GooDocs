@@ -48,13 +48,56 @@ Whether you want to design a recipe card, a professional newsletter, or a bold e
 ## 📁 Repository Structure
 ```
 GooDocs/
-├List of Templates.pdf/
-├master-formatting.pdf/
-├README.md
-├styling-google-docs.pdf/
-├google-template-links.txt
-├─ pdf/
-├─ img/
+├── .github/
+│   └── pull_request_template.md
+├── .gitignore
+├── Abortion-Rights-Newsletter-Google-Docs-01-19-2026_09_47_PM.png
+├── CONTRIBUTING.md
+├── List of Templates.pdf
+├── README.md
+├── docs/
+│   └── submission-guidelines.md
+├── google-template-links.txt
+├── img/
+│   ├── dark-docs.png
+│   ├── demo/
+│   │   └── share-anyone-with-link.gif
+│   ├── light-docs.png
+│   ├── spread.jpg
+│   └── templates/
+│       ├── advocacy-newsletter.png
+│       ├── amazon-plus.png
+│       ├── article-analysis.png
+│       ├── autumn.png
+│       ├── categories-products.png
+│       ├── dark-newsletter.png
+│       ├── ecommerce-mockups.png
+│       ├── ecommerce.png
+│       ├── group-project-evaluation.png
+│       ├── master.png
+│       ├── pace-unit-one.png
+│       ├── quote-log.png
+│       ├── recipes.png
+│       ├── relationship-worksheets.png
+│       ├── skincare.png
+│       ├── success-plan.png
+│       ├── team-charter.png
+│       └── two-column-ebook.png
+├── master-formatting.pdf
+├── pdf/
+│   ├── master-formatting.pdf
+│   ├── product.pdf
+│   ├── recipies.pdf
+│   ├── styling-google-docs.pdf
+│   ├── table-layout.pdf
+│   └── webpage-templates.pdf
+├── privacy-policy.md
+├── styling-google-docs.pdf
+└── templates/
+    ├── categories.md
+    ├── template-entry-example.json
+    └── templates.json
+
 
 ```
 
