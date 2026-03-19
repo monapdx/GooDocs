@@ -22,14 +22,37 @@
 
 ---
 
+## 🏷 Category
+
+- [ ] resume
+- [ ] newsletter
+- [ ] planner
+- [ ] invoice
+- [ ] notes
+- [ ] business
+- [ ] education
+- [ ] personal
+- [ ] creative
+- [ ] uncategorized
+
+---
+
 ## 📂 Checklist
 
 - [ ] I added my template to `templates/templates.json`
 - [ ] My JSON entry is valid
 - [ ] My template ID is unique
+- [ ] My preview image follows naming conventions
+- [ ] My title is descriptive
 - [ ] The Google Doc is publicly viewable
 - [ ] The copy link works
-- [ ] The preview image matches the template
+
+---
+
+## 📖 Guidelines
+
+Please review before submitting:
+[Submission Guidelines](../docs/submission-guidelines.md)
 
 ---
 
