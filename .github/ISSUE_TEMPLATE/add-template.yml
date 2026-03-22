@@ -1,0 +1,106 @@
+name: Add New Google Docs Template
+description: Submit a new Google Docs template to be included in GooDocs
+title: "[TEMPLATE] "
+labels: ["template", "submission"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing a new Google Docs template!  
+        Please fill out the details below so we can review and add it properly.
+
+  - type: input
+    id: template-name
+    attributes:
+      label: Template Name
+      description: What is the name of your template?
+      placeholder: e.g. Minimal Resume, Study Planner, Invoice Template
+    validations:
+      required: true
+
+  - type: input
+    id: template-url
+    attributes:
+      label: Google Docs Link
+      description: Share a view-only or template link
+      placeholder: https://docs.google.com/...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Choose the best category for this template
+      options:
+        - Resume / CV
+        - Business / Finance
+        - Education / Notes
+        - Productivity
+        - Creative / Writing
+        - Personal / Life
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: new-category
+    attributes:
+      label: Suggest a New Category (optional)
+      description: If "Other", suggest a category name
+      placeholder: e.g. Legal, Fitness, Journaling
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What does this template do? Who is it for?
+      placeholder: Describe the purpose and use case of the template
+    validations:
+      required: true
+
+  - type: textarea
+    id: features
+    attributes:
+      label: Key Features
+      description: List any standout features
+      placeholder: |
+        - Clean layout
+        - Pre-filled sections
+        - Color-coded headings
+    validations:
+      required: false
+
+  - type: upload
+    id: preview-image
+    attributes:
+      label: Preview Image / Screenshot
+      description: Upload a screenshot of the template (PNG/JPG)
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: The template is publicly accessible
+          required: true
+        - label: I created this template or have permission to share it
+          required: true
+        - label: The template does not include sensitive or private data
+          required: true
+
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: Additional Notes
+      description: Anything else you'd like to include?
+      placeholder: Optional notes, inspiration, or context
+    validations:
+      required: false
