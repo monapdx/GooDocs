@@ -29,6 +29,22 @@ Whether you want to design a recipe card, a professional newsletter, or a bold e
 ### Light-Themed Templates
 ![Light Docs](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/light-docs.png)
 
+## Resumes
+
+## Newsletters
+
+## Calendars
+
+## Invoices
+
+## Worksheets
+
+## Legal 
+
+## Recipes
+
+## Academic
+
 ---
 
 ## ✨ Features
