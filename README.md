@@ -68,7 +68,7 @@ Whether you want to design a recipe card, a professional newsletter, or a bold e
 
 GooDocs is a growing library of Google Docs templates—and contributions are welcome.
 
-[![Submit Template](https://img.shields.io/badge/Submit-Template-pink?style=for-the-badge)](https://github.com/monapdx/GooDocs/issues/new?template=add-template.yml)
+[![Submit Template](https://img.shields.io/badge/%F0%9F%91%89Submit%20Template-1f6feb?style=for-the-badge)](https://github.com/monapdx/GooDocs/issues/new?template=add-template.yml) [![Contribute](https://img.shields.io/badge/%F0%9F%92%96Contribute-1f6feb?style=for-the-badge)](#CONTRIBUTING.md) [![Submissions](https://img.shields.io/badge/%E2%9C%85Submissions-1f6feb?style=for-the-badge)](docs/submission-guidelines.md)
 
 ### Quick Start
 
@@ -76,10 +76,6 @@ GooDocs is a growing library of Google Docs templates—and contributions are we
 2. Add a preview image to `img/templates/`
 3. Add your template to `templates/templates.json`
 4. Open a pull request
-
-👉 See full instructions:  
-- [Contributing Guide](./CONTRIBUTING.md)  
-- [Submission Guidelines](./docs/submission-guidelines.md)
 
 ## 🧪 Why GooDocs Exists
 Because Google Docs is powerful — but visually plain.  
