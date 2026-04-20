@@ -1,10 +1,12 @@
-
 # GooDocs
 
-[![Resumes](https://img.shields.io/badge/%F0%9F%93%9DResumes-111111?style=for-the-badge)](#resumes) [![Newsletters](https://img.shields.io/badge/%F0%9F%93%ABNewsletters-111111?style=for-the-badge)](#newsletters) [![Calendars](https://img.shields.io/badge/%F0%9F%93%85Calendar-111111?style=for-the-badge)](#calendars) [![Invoices](https://img.shields.io/badge/%F0%9F%92%B8Invoices-111111?style=for-the-badge)](#invoices) [![Worksheets](https://img.shields.io/badge/%E2%9C%8D%EF%B8%8FWorksheets-111111?style=for-the-badge)](#worksheets) [![Legal](https://img.shields.io/badge/%E2%9A%96%EF%B8%8FLegal-111111?style=for-the-badge)](#legal) [![Recipes](https://img.shields.io/badge/%F0%9F%8D%9CRecipes-111111?style=for-the-badge)](#recipes) [![Academic](https://img.shields.io/badge/%F0%9F%8F%ABAcademic-111111?style=for-the-badge)](#academic) 
+| Logo | Description |
+|---|---|
+| <img src="product.png" width="402"> | **Beautiful Google Docs Templates** Premium, stylish, ready-to-copy layouts made with tables, typography, and clever formatting tricks. |
 
-**Beautiful Google Docs Templates**  
-Premium, stylish, ready-to-copy layouts made with tables, typography, and clever formatting tricks.
+## Template Categories
+
+[![Resumes](https://img.shields.io/badge/%F0%9F%93%9DResumes-111111?style=for-the-badge)](#resumes) [![Newsletters](https://img.shields.io/badge/%F0%9F%93%ABNewsletters-111111?style=for-the-badge)](#newsletters) [![Calendars](https://img.shields.io/badge/%F0%9F%93%85Calendar-111111?style=for-the-badge)](#calendars) [![Invoices](https://img.shields.io/badge/%F0%9F%92%B8Invoices-111111?style=for-the-badge)](#invoices) [![Worksheets](https://img.shields.io/badge/%E2%9C%8D%EF%B8%8FWorksheets-111111?style=for-the-badge)](#worksheets) [![Legal](https://img.shields.io/badge/%E2%9A%96%EF%B8%8FLegal-111111?style=for-the-badge)](#legal) [![Recipes](https://img.shields.io/badge/%F0%9F%8D%9CRecipes-111111?style=for-the-badge)](#recipes) [![Academic](https://img.shields.io/badge/%F0%9F%8F%ABAcademic-111111?style=for-the-badge)](#academic) 
 
 ---
 
