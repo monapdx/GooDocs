@@ -21,7 +21,7 @@ Every template is built by hand using:
 
 Whether you want to design a recipe card, a professional newsletter, or a bold editorial-style document — GooDocs gives you beautiful starting points you can customize instantly.
 
-<a href="https://docs.google.com/document/d/1gh5tgUe82gQ2YUBD0cb97f5ajG6fBdVOJP1ccz2GMnE/edit?usp=sharing">List of all templates</a>
+[![View All Templates](https://img.shields.io/badge/%F0%9F%A7%A9View%20All%20Templates-111111?style=for-the-badge)](https://docs.google.com/document/d/1gh5tgUe82gQ2YUBD0cb97f5ajG6fBdVOJP1ccz2GMnE/edit?usp=sharing)
 
 ## Template Previews
 
