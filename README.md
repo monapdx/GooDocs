@@ -171,7 +171,7 @@ GooDocs is a growing library of Google Docs templates—and contributions are we
 ## 🧪 Why GooDocs Exists
 Because Google Docs is powerful — but visually plain.  
 
-You’ve found a way to bypass its limitations with creative table formatting, layout tricks, borders, and style hacks that most people never discover.
+GooDocs offers a way to bypass its limitations with creative table formatting, layout tricks, borders, and style hacks that most people never discover.
 
 GooDocs brings those hacks together into a public collection so anyone can create documents that look:
 - professional  
