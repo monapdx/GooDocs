@@ -2,7 +2,9 @@
 
 | Logo | Description |
 |---|---|
-| <img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/GooDocs.png" width="402"> | **Beautiful Google Docs Templates** Premium, stylish, ready-to-copy layouts made with tables, typography, and clever formatting tricks. |
+| <img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/GooDocs.png" width="402"> | **Beautiful Google Docs Templates** Premium, stylish, ready-to-copy layouts made with tables, typography, and clever formatting tricks. 
+
+[![Chrome Extension](https://img.shields.io/badge/%F0%9F%9A%80Chrome%20Extension-111111?style=for-the-badge)](https://chromewebstore.google.com/detail/docs-template-gallery-new/oagdldiengdboplkbkakmhpofdaheggj) |
 
 ## Template Categories
 
