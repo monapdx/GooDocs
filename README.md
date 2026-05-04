@@ -140,6 +140,12 @@ Whether you want to design a recipe card, a professional newsletter, or a bold e
 
 ---
 
+| Cover | Description |
+|---|---|
+| <img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/ebook-cover-design.png" width="524"> | **10 TIPS for ADVANCED GOOGLE DOCS STYLING** <i>This practical guide reveals a paradigm shift in document design—using tables as layout containers rather than spreadsheets, mastering cell padding instead of relying on paragraph spacing, and employing borders, color, and negative space thoughtfully to create clear visual hierarchy and structure.
+
+
+
 ## ✨ Features
 - Beautiful, modern Google Docs templates  
 - Professional table-based layouts  
