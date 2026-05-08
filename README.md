@@ -57,6 +57,8 @@ This approach allows documents to look more like designed layouts—not default 
 
 6. [Pixel Art Newsletter](https://docs.google.com/document/d/1weWu7oCKKOYbTGyHW7QKrk_RnRrzfQ9B2INcBW6vZes/edit?usp=sharing)
 
+7. [Neo-Brutalist Newsletter](https://docs.google.com/document/d/1naPGG8fITmw07laEabvRQob_THJulAkL3INFAeGxjFs/edit?usp=sharing) 
+
 
 ## Calendars
 
