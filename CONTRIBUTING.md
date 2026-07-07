@@ -28,6 +28,8 @@ Your template must include:
 
 Both links must work correctly before submitting.
 
+<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/demo/share-anyone-with-link.gif">
+
 ---
 
 ## 🖼 Preview Image Requirements
