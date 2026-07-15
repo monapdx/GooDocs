@@ -60,9 +60,13 @@ This approach allows documents to look more like designed layouts—not default 
 7. [Neo-Brutalist Newsletter](https://docs.google.com/document/d/1naPGG8fITmw07laEabvRQob_THJulAkL3INFAeGxjFs/edit?usp=sharing) 
 
 
-## Calendars
+## Grids
 
 1. [Month Calendar](https://docs.google.com/document/d/1g4fJymEJLesAViN3fVGS22OckdyBUwIuWIz9CjYNM4k/edit?usp=sharing)
+
+2. [Animated Icon Grid](https://docs.google.com/document/d/1z5nOFjKxAfG4vT4hASOV8VcEw6NVzjT3BMSICNPIEOM/edit?usp=sharing)
+
+3. [Animated Blockquotes](https://docs.google.com/document/d/19GbfFI130His3_pVv5V4wq9mFk4eruQ1K38fqmgS4qw/edit?usp=sharing)
 
 ## Product Templates
 
@@ -73,6 +77,8 @@ This approach allows documents to look more like designed layouts—not default 
 3. [Github Product Template](https://docs.google.com/document/d/1f_ipqCGuW55aanDvEadpJqHaIueO9pmXQLenj_Jo_nU/edit?usp=sharing)
 
 4. [Github Product Template \[BLANK\]](https://docs.google.com/document/d/1eKH3ULOi1yPFN5PerlE2qogpvi9ihjCTYPoLdDLsAsc/edit?usp=sharing)
+
+5. [Documentation Template](https://docs.google.com/document/d/11mErrjn-neyR3KhNx00QogNU6QH8LyyQKfZEeMzxHNQ/edit?usp=sharing) 
 
 ## Worksheets
 
@@ -97,6 +103,10 @@ This approach allows documents to look more like designed layouts—not default 
 10. [Escorting Business Plan (Pink)](https://docs.google.com/document/d/19Sk57CqJmGH1BY1Watv35cTuiN7Kvc3Nr-6G99UhlG0/edit?usp=sharing)
 
 11. [Complaint Form](https://docs.google.com/document/d/1EMJeRlpHEnb8OYQAq0pTgXkhBzXtb4HTWkSK7ExzH4g/edit?usp=sharing)
+
+12. [Application Template](https://docs.google.com/document/d/11C_UfuSVgXZFGAeVeQo-3KWfLrEwk3o_I6ZuxqoWuLQ/edit?usp=sharing)
+
+13. [Bingo Card Template](https://docs.google.com/document/d/1SDoI5pWh9g4IkTuq3tjl96k0uiEPIV_z9yG5uipVPig/edit?usp=sharing) 
 
 ## Legal 
 
