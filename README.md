@@ -23,25 +23,13 @@ GooDocs templates are built using techniques most people never discover in Googl
 
 This approach allows documents to look more like designed layouts—not default word processor pages.
 
-## Template Categories
+## List of Templates
 
-[![Resumes](https://img.shields.io/badge/%F0%9F%93%9DResumes-111111?style=for-the-badge)](#resumes) [![Newsletters](https://img.shields.io/badge/%F0%9F%93%ABNewsletters-111111?style=for-the-badge)](#newsletters) [![Calendars](https://img.shields.io/badge/%F0%9F%93%85Calendar-111111?style=for-the-badge)](#calendars) [![Invoices](https://img.shields.io/badge/%F0%9F%92%B8Invoices-111111?style=for-the-badge)](#invoices) [![Worksheets](https://img.shields.io/badge/%E2%9C%8D%EF%B8%8FWorksheets-111111?style=for-the-badge)](#worksheets) [![Legal](https://img.shields.io/badge/%E2%9A%96%EF%B8%8FLegal-111111?style=for-the-badge)](#legal) [![Recipes](https://img.shields.io/badge/%F0%9F%8D%9CRecipes-111111?style=for-the-badge)](#recipes) [![Academic](https://img.shields.io/badge/%F0%9F%8F%ABAcademic-111111?style=for-the-badge)](#academic) 
-
----
-
-## Template Previews
-
-### Dark-Themed Templates
-![Dark Docs](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/dark-docs.png)
-
-### Light-Themed Templates
-![Light Docs](https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/img/light-docs.png)
-
-## Resumes
+### Resumes
 
 1. [Dark Resume](https://docs.google.com/document/d/1Q8x9kErojUItoD8RU-jMzr3QUkVli0ouljI26wwiPHA/edit?usp=sharing)
 
-## Newsletters
+### Newsletters
 
 1. [Promotional Newsletter Template](https://docs.google.com/document/d/1Gye36AIIeei1iRn2c7IMd6oCdRPowTFue00y3xvwSfc/edit?usp=sharing)
 
@@ -58,7 +46,7 @@ This approach allows documents to look more like designed layouts—not default 
 7. [Neo-Brutalist Newsletter](https://docs.google.com/document/d/1naPGG8fITmw07laEabvRQob_THJulAkL3INFAeGxjFs/edit?usp=sharing) 
 
 
-## Grids
+### Grids
 
 1. [Month Calendar](https://docs.google.com/document/d/1g4fJymEJLesAViN3fVGS22OckdyBUwIuWIz9CjYNM4k/edit?usp=sharing)
 
@@ -66,7 +54,7 @@ This approach allows documents to look more like designed layouts—not default 
 
 3. [Animated Blockquotes](https://docs.google.com/document/d/19GbfFI130His3_pVv5V4wq9mFk4eruQ1K38fqmgS4qw/edit?usp=sharing)
 
-## Product Templates
+### Product Templates
 
 1. [Product Onboarding Template](https://docs.google.com/document/d/1LGX5KCXPWnP8UtBM9FGrMgDvZ87Nz7Gc94vzZN2oXlI/edit?usp=sharing)
 
@@ -78,7 +66,7 @@ This approach allows documents to look more like designed layouts—not default 
 
 5. [Documentation Template](https://docs.google.com/document/d/11mErrjn-neyR3KhNx00QogNU6QH8LyyQKfZEeMzxHNQ/edit?usp=sharing) 
 
-## Worksheets
+### Worksheets
 
 1. [Worksheet Template](https://docs.google.com/document/d/11Z8ciSjH7TjOwKWaVe08mPtsY3HsETagDZVfd05KCp4/edit?usp=sharing)
 
@@ -97,7 +85,7 @@ This approach allows documents to look more like designed layouts—not default 
 8. [Application Template](https://docs.google.com/document/d/11C_UfuSVgXZFGAeVeQo-3KWfLrEwk3o_I6ZuxqoWuLQ/edit?usp=sharing)
 
 
-## Games
+### Games
 
 1. [Bingo Card Template](https://docs.google.com/document/d/1SDoI5pWh9g4IkTuq3tjl96k0uiEPIV_z9yG5uipVPig/edit?usp=sharing)
 
@@ -109,11 +97,11 @@ This approach allows documents to look more like designed layouts—not default 
 
 5. [Crossword Answers](https://docs.google.com/document/d/1gg1rEUeTfnMMneGlbpaO0wMtjuFHCMjCupLgR-9P_8A/edit?usp=sharing)
 
-## Legal 
+### Legal 
 
 1. [License Agreement Template](https://docs.google.com/document/d/10uzLOEp-iCpNzvAKAse7VHfbtGka4MhWVJ7Zm5-ObBk/edit?usp=sharing)
 
-## eBooks
+### eBooks
 
 1. [eBook Example](https://docs.google.com/document/d/1j4bv63nFqxcShKLLsZtsoiGPHGK8Tgx_e6YIOM4FxTw/edit?usp=sharing)
 
@@ -129,7 +117,7 @@ This approach allows documents to look more like designed layouts—not default 
 
 7. [Blog Post Template](https://docs.google.com/document/d/1rJlFo_wztg32e200cpA6uFp8MW6zT9libBngG6LZFxE/edit?usp=sharing)
 
-## Academic
+### Academic
 
 1. [Quote Log Template](https://docs.google.com/document/d/1kHwhXZe5fGv1CpbEWYq1_1O7dABMmAo0/edit?usp=sharing&ouid=108103891676540118260&rtpof=true&sd=true)
 
@@ -143,7 +131,7 @@ This approach allows documents to look more like designed layouts—not default 
 
 6. [Team Charter Template](https://docs.google.com/document/d/1hwF-GPM3adHOYHMuZaCRHFDJSwP5JyrZzS-QEPX76PA/edit?usp=sharing)
 
-## Website Mockups
+### Website Mockups
 
 1. [Website Mockups](https://docs.google.com/document/d/1RxQ2CdWy_MxcNw4LLwpAS0Jt2ElPM78UAmhwAsN1Gko/edit?usp=sharing)
 
@@ -151,7 +139,7 @@ This approach allows documents to look more like designed layouts—not default 
 
 3. [Online Shop](https://docs.google.com/document/d/1Tc8namk6C3OpOe112IKE6c9LN_6n6rCKso8Y35ScBvs/edit?usp=sharing)
 
-## Email Templates
+### Email Templates
 
 1. [Email Autoresponder Series](https://docs.google.com/document/d/1zTl0pms2AMhRRpHOG6DT5mZFY3qrhlIwkwOw3V8xMRw/edit?usp=sharing)
 
@@ -169,24 +157,7 @@ GooDocs templates are designed for:
 - 📚 Academic writing and structured coursework  
 - 🍳 Recipe cards and lifestyle content  
 - 🧾 Legal and formal documentation  
-- 🎨 Creative layouts and experimental document design  
-
-
-
-## ✨ Features
-- Beautiful, modern Google Docs templates  
-- Professional table-based layouts  
-- Includes both **dark** and **light** themes  
-- List styles, newsletters, recipe cards, resumes, and more  
-- Drop-in-ready: just **File → Make a Copy**  
-- Easy to customize: colors, fonts, borders, and images  
-- Perfect for:
-  - Writers  
-  - Students  
-  - Small businesses  
-  - Creatives  
-  - Substack creators  
-  - Advocates & activists  
+- 🎨 Creative layouts and experimental document design   
 
 ---
 
