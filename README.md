@@ -1,8 +1,6 @@
 # GooDocs
 
-| Logo | Description |
-|---|---|
-| <img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/GooDocs.png" width="402"> | **Beautiful Google Docs Templates** Premium, stylish, ready-to-copy layouts made with tables, typography, and clever formatting tricks. 
+<img src="https://raw.githubusercontent.com/monapdx/GooDocs/refs/heads/main/banner.png">
 
 ## 🎨 What is GooDocs?
 
