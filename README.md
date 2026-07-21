@@ -161,12 +161,12 @@ GooDocs templates are designed for:
 
 ---
 
-## 🔗 Related Template Projects
+## 🔗 More Great Google Docs Templates
 
 GooDocs is part of a growing ecosystem of document template resources:
 
-- [The Good Docs Project](https://github.com/thegooddocsproject/templates) (open-source documentation templates)  
-- [Documize Templates](https://github.com/documize/document-templates) (business and project documentation)  
+- [Docs and Slides](https://docsandslides.com/)
+- [Smashing Docs](https://smashingdocs.com/) 
 
 GooDocs focuses specifically on **visual design, layout creativity, and aesthetic flexibility** within Google Docs.
 
