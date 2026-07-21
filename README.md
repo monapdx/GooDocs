@@ -174,7 +174,7 @@ GooDocs focuses specifically on **visual design, layout creativity, and aestheti
 
 GooDocs is a growing library of Google Docs templates—and contributions are welcome.
 
-[![Submit Template](https://img.shields.io/badge/%F0%9F%91%89Submit%20Template-1f6feb?style=for-the-badge)](https://github.com/monapdx/GooDocs/issues/new?template=add-template.yml) [![Contribute](https://img.shields.io/badge/%F0%9F%92%96Contribute-1f6feb?style=for-the-badge)](#Contributing.md)
+[![Submit Template](https://img.shields.io/badge/%F0%9F%91%89Submit%20Template-1f6feb?style=for-the-badge)](https://github.com/monapdx/GooDocs/issues/new?template=add-template.yml) [![Contribute](https://img.shields.io/badge/%F0%9F%92%96Contribute-1f6feb?style=for-the-badge)](#CONTRIBUTING.md)
 ### Quick Start
 
 1. Fork this repo
